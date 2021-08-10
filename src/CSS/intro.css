@@ -1,0 +1,25 @@
+
+  
+  .home {
+    border: 2px solid black;
+    height: 45rem;
+    background: black;
+    display: flex;
+    background-image: url('../images/logo.png');
+  }
+  .logo{
+    /* border: 2px solid white; */
+    height: 80%;
+    width: 50%;
+    margin: 70px;
+    background-size: contain;
+    background-repeat: no-repeat;
+  }
+  .intro{
+    border: 2px solid white;
+    height: 80%;
+    width: 50%;
+    margin: 70px;
+  }
+  
+  

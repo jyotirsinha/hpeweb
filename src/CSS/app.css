@@ -1,0 +1,6 @@
+.main {
+    border: 2px solid black;
+    height: 300rem;
+    display: block;
+    /* background-image: url('../images/logo.png'); */
+  }

@@ -1,0 +1,11 @@
+.vision {
+    border: 2px solid black;
+    height: 25rem;
+    text-align: center;
+    height: 500px;
+    background-size: cover; 
+    background-position: center;
+	background-attachment: fixed;
+}
+
+
